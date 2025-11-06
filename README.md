@@ -5,6 +5,7 @@ A stunning, game-inspired portfolio website showcasing your work in Virtual Real
 ## ✨ Features
 
 - **Immersive Hero Section** - Profile picture, about section, and social links
+- **Credentials & Honors** - Split-screen showcase of certifications and achievements
 - **Tech Categories** - Projects organized by VR, ML, and Software Testing
 - **Project Showcases** - Detailed pages with video demos and tech stacks
 - **Personality Assessment** - Visual representation of your professional strengths
@@ -88,6 +89,53 @@ Edit: `client/src/data/personality.json`
 }
 ```
 
+### Add or Edit Certificates
+
+Edit: `client/src/data/certificates.json`
+
+```json
+{
+  "id": "cert-unique-id",
+  "title": "Certificate or Course Name",
+  "organization": "Issuing Organization",
+  "description": "Brief 2-3 line description of what you learned or accomplished in this certification.",
+  "year": "2024",
+  "linkLabel": "View Certificate",
+  "linkUrl": "https://example.com/your-certificate-link"
+}
+```
+
+**Optional fields:**
+- `linkLabel` and `linkUrl` - Only include if you have a certificate link. Omit both if no link available.
+- `year` - Optional but recommended
+
+### Add or Edit Achievements
+
+Edit: `client/src/data/achievements.json`
+
+```json
+{
+  "id": "achievement-unique-id",
+  "title": "Achievement or Award Name",
+  "organization": "Organization or Event",
+  "description": "Brief 2-3 line description of the achievement and its impact or significance.",
+  "year": "2024",
+  "linkLabel": "Read Article",
+  "linkUrl": "https://example.com/article-or-publication"
+}
+```
+
+**Optional fields:**
+- `linkLabel` and `linkUrl` - Only include if there's an article, publication, or online reference. Omit both if no link available.
+- `year` - Optional but recommended
+
+**Link Label Examples:**
+- "View Certificate" - for certifications
+- "Read Article" - for published articles
+- "View Project" - for project showcases
+- "Read Paper" - for research publications
+- "See Details" - for general links
+
 ---
 
 ## 🎥 Adding Project Demo Videos
@@ -166,6 +214,7 @@ client/
 - ✅ VR-inspired futuristic design
 - ✅ Fully responsive layout
 - ✅ Dark/Light theme toggle
+- ✅ Credentials showcase (certifications & achievements)
 - ✅ Project categorization
 - ✅ Video demo integration
 - ✅ Social media links
