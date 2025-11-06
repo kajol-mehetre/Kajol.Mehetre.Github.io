@@ -1,0 +1,74 @@
+[
+  {
+    "id": "vr-training-simulator",
+    "category": "Virtual Reality",
+    "title": "VR Training Simulator",
+    "description": "Immersive training platform for enterprise onboarding using Oculus Quest 2",
+    "techStack": ["Unity", "C#", "Oculus SDK", "WebXR"],
+    "videoUrl": "https://www.youtube.com/embed/dQw4w9WgXcQ",
+    "mediumUrl": "https://medium.com",
+    "githubUrl": "https://github.com",
+    "thumbnail": "vr-1",
+    "featured": true
+  },
+  {
+    "id": "metaverse-collaboration",
+    "category": "Virtual Reality",
+    "title": "Metaverse Collaboration Space",
+    "description": "Multi-user VR workspace for remote team collaboration and brainstorming",
+    "techStack": ["Unreal Engine", "Photon", "SteamVR", "Blender"],
+    "videoUrl": "https://www.youtube.com/embed/dQw4w9WgXcQ",
+    "mediumUrl": "https://medium.com",
+    "githubUrl": "https://github.com",
+    "thumbnail": "vr-2",
+    "featured": false
+  },
+  {
+    "id": "ml-gesture-recognition",
+    "category": "Machine Learning",
+    "title": "ML Gesture Recognition",
+    "description": "Real-time hand gesture recognition system using computer vision and deep learning",
+    "techStack": ["TensorFlow", "Python", "OpenCV", "MediaPipe"],
+    "videoUrl": "https://www.youtube.com/embed/dQw4w9WgXcQ",
+    "mediumUrl": "https://medium.com",
+    "githubUrl": "https://github.com",
+    "thumbnail": "ml-1",
+    "featured": true
+  },
+  {
+    "id": "predictive-analytics",
+    "category": "Machine Learning",
+    "title": "Predictive Analytics Engine",
+    "description": "ML-powered analytics platform for forecasting user behavior and trends",
+    "techStack": ["PyTorch", "Scikit-learn", "Pandas", "FastAPI"],
+    "videoUrl": "https://www.youtube.com/embed/dQw4w9WgXcQ",
+    "mediumUrl": "https://medium.com",
+    "githubUrl": "https://github.com",
+    "thumbnail": "ml-2",
+    "featured": false
+  },
+  {
+    "id": "automated-test-framework",
+    "category": "Software Testing",
+    "title": "Automated Test Framework",
+    "description": "Comprehensive E2E testing framework with CI/CD integration and reporting",
+    "techStack": ["Selenium", "Jest", "Cypress", "Docker"],
+    "videoUrl": "https://www.youtube.com/embed/dQw4w9WgXcQ",
+    "mediumUrl": "https://medium.com",
+    "githubUrl": "https://github.com",
+    "thumbnail": "test-1",
+    "featured": true
+  },
+  {
+    "id": "ai-test-generator",
+    "category": "Software Testing",
+    "title": "AI Test Case Generator",
+    "description": "AI-powered tool that automatically generates test cases from requirements",
+    "techStack": ["GPT-4", "TypeScript", "Node.js", "PostgreSQL"],
+    "videoUrl": "https://www.youtube.com/embed/dQw4w9WgXcQ",
+    "mediumUrl": "https://medium.com",
+    "githubUrl": "https://github.com",
+    "thumbnail": "test-2",
+    "featured": false
+  }
+]

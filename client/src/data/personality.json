@@ -1,0 +1,34 @@
+{
+  "traits": [
+    {
+      "name": "Innovation",
+      "level": 95,
+      "description": "Constantly exploring new technologies and pushing creative boundaries"
+    },
+    {
+      "name": "Problem Solving",
+      "level": 90,
+      "description": "Analytical approach to breaking down complex challenges"
+    },
+    {
+      "name": "Collaboration",
+      "level": 85,
+      "description": "Strong team player with excellent communication skills"
+    },
+    {
+      "name": "Attention to Detail",
+      "level": 92,
+      "description": "Meticulous code quality and thorough testing practices"
+    },
+    {
+      "name": "Adaptability",
+      "level": 88,
+      "description": "Quick learner who thrives in dynamic environments"
+    },
+    {
+      "name": "Leadership",
+      "level": 80,
+      "description": "Mentoring junior developers and leading technical initiatives"
+    }
+  ]
+}

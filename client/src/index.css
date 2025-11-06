@@ -14,55 +14,55 @@
   --elevate-1: rgba(0,0,0, .03);
   --elevate-2: rgba(0,0,0, .08);
 
-  --background: 240 5% 96%;
+  --background: 220 30% 98%;
 
-  --foreground: 240 6% 10%;
+  --foreground: 220 15% 12%;
 
-  --border: 240 6% 88%;
+  --border: 220 20% 85%;
 
-  --card: 240 5% 94%;
+  --card: 220 25% 96%;
 
-  --card-foreground: 240 6% 12%;
+  --card-foreground: 220 15% 15%;
 
-  --card-border: 240 6% 90%;
+  --card-border: 220 20% 88%;
 
-  --sidebar: 240 5% 92%;
+  --sidebar: 220 25% 94%;
 
-  --sidebar-foreground: 240 6% 14%;
+  --sidebar-foreground: 220 15% 18%;
 
-  --sidebar-border: 240 6% 86%;
+  --sidebar-border: 220 20% 82%;
 
-  --sidebar-primary: 195 92% 42%;
+  --sidebar-primary: 195 100% 45%;
 
-  --sidebar-primary-foreground: 195 92% 98%;
+  --sidebar-primary-foreground: 0 0% 100%;
 
-  --sidebar-accent: 240 8% 88%;
+  --sidebar-accent: 220 20% 88%;
 
-  --sidebar-accent-foreground: 240 6% 16%;
+  --sidebar-accent-foreground: 220 15% 20%;
 
-  --sidebar-ring: 195 92% 42%;
+  --sidebar-ring: 195 100% 45%;
 
-  --popover: 240 6% 90%;
+  --popover: 220 25% 92%;
 
-  --popover-foreground: 240 6% 14%;
+  --popover-foreground: 220 15% 18%;
 
-  --popover-border: 240 6% 84%;
+  --popover-border: 220 20% 80%;
 
-  --primary: 195 92% 42%;
+  --primary: 195 100% 45%;
 
-  --primary-foreground: 195 92% 98%;
+  --primary-foreground: 0 0% 100%;
 
-  --secondary: 240 8% 86%;
+  --secondary: 220 20% 85%;
 
-  --secondary-foreground: 240 6% 16%;
+  --secondary-foreground: 220 15% 20%;
 
-  --muted: 240 10% 88%;
+  --muted: 220 20% 88%;
 
-  --muted-foreground: 240 6% 40%;
+  --muted-foreground: 220 10% 45%;
 
-  --accent: 280 60% 88%;
+  --accent: 280 70% 50%;
 
-  --accent-foreground: 280 60% 28%;
+  --accent-foreground: 0 0% 100%;
 
   --destructive: 0 84% 48%;
 
@@ -76,9 +76,11 @@
   --chart-4: 25 90% 48%;
   --chart-5: 340 75% 42%;
 
-  --font-sans: 'Inter', 'Open Sans', sans-serif;
+  --font-sans: 'Inter', sans-serif;
   --font-serif: Georgia, serif;
   --font-mono: Menlo, monospace;
+  --font-orbitron: 'Orbitron', sans-serif;
+  --font-rajdhani: 'Rajdhani', sans-serif;
   --radius: .5rem; /* 8px */
   --shadow-2xs: 0px 1px 2px 0px hsl(240 6% 10% / 0.05);
   --shadow-xs: 0px 1px 3px 0px hsl(240 6% 10% / 0.08);
@@ -132,55 +134,55 @@
   --elevate-1: rgba(255,255,255, .04);
   --elevate-2: rgba(255,255,255, .09);
 
-  --background: 240 6% 8%;
+  --background: 220 30% 8%;
 
-  --foreground: 240 5% 92%;
+  --foreground: 220 15% 92%;
 
-  --border: 240 6% 16%;
+  --border: 220 20% 18%;
 
-  --card: 240 6% 10%;
+  --card: 220 25% 12%;
 
-  --card-foreground: 240 5% 90%;
+  --card-foreground: 220 15% 90%;
 
-  --card-border: 240 6% 14%;
+  --card-border: 220 20% 16%;
 
-  --sidebar: 240 6% 12%;
+  --sidebar: 220 25% 10%;
 
-  --sidebar-foreground: 240 5% 88%;
+  --sidebar-foreground: 220 15% 88%;
 
-  --sidebar-border: 240 6% 18%;
+  --sidebar-border: 220 20% 16%;
 
-  --sidebar-primary: 195 92% 45%;
+  --sidebar-primary: 195 100% 50%;
 
-  --sidebar-primary-foreground: 195 92% 98%;
+  --sidebar-primary-foreground: 0 0% 100%;
 
-  --sidebar-accent: 240 8% 16%;
+  --sidebar-accent: 220 20% 16%;
 
-  --sidebar-accent-foreground: 240 5% 86%;
+  --sidebar-accent-foreground: 220 15% 85%;
 
-  --sidebar-ring: 195 92% 45%;
+  --sidebar-ring: 195 100% 50%;
 
-  --popover: 240 6% 14%;
+  --popover: 220 25% 14%;
 
-  --popover-foreground: 240 5% 88%;
+  --popover-foreground: 220 15% 88%;
 
-  --popover-border: 240 6% 20%;
+  --popover-border: 220 20% 20%;
 
-  --primary: 195 92% 48%;
+  --primary: 195 100% 50%;
 
-  --primary-foreground: 195 92% 98%;
+  --primary-foreground: 0 0% 100%;
 
-  --secondary: 240 8% 18%;
+  --secondary: 220 20% 18%;
 
-  --secondary-foreground: 240 5% 86%;
+  --secondary-foreground: 220 15% 85%;
 
-  --muted: 240 10% 16%;
+  --muted: 220 20% 16%;
 
-  --muted-foreground: 240 6% 65%;
+  --muted-foreground: 220 10% 60%;
 
-  --accent: 280 60% 20%;
+  --accent: 280 70% 55%;
 
-  --accent-foreground: 280 60% 85%;
+  --accent-foreground: 0 0% 100%;
 
   --destructive: 0 84% 52%;
 
