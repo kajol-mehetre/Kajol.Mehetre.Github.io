@@ -1,0 +1,36 @@
+[
+  {
+    "id": "achievement-1",
+    "title": "Best VR Experience Award",
+    "organization": "VR/AR Global Summit 2023",
+    "description": "Won first place for innovative VR training simulation that reduced onboarding time by 60%. Featured in VentureBeat and recognized for pushing boundaries in enterprise VR applications.",
+    "year": "2023",
+    "linkLabel": "Read Article",
+    "linkUrl": "https://example.com/achievement1"
+  },
+  {
+    "id": "achievement-2",
+    "title": "Open Source Contributor - Unity XR Toolkit",
+    "organization": "Unity Technologies",
+    "description": "Active contributor to Unity's official XR Interaction Toolkit, with merged pull requests improving accessibility features and performance optimizations used by thousands of developers worldwide.",
+    "year": "2023",
+    "linkLabel": "View Contributions",
+    "linkUrl": "https://example.com/achievement2"
+  },
+  {
+    "id": "achievement-3",
+    "title": "Hackathon Winner - AI for Accessibility",
+    "organization": "MIT Reality Hack 2024",
+    "description": "Led team to develop ML-powered sign language translation in VR environments, enabling real-time communication for deaf and hard-of-hearing users in virtual spaces.",
+    "year": "2024"
+  },
+  {
+    "id": "achievement-4",
+    "title": "Published Research - Reducing VR Motion Sickness",
+    "organization": "IEEE VR Conference",
+    "description": "Co-authored peer-reviewed paper presenting novel techniques for reducing simulator sickness in VR locomotion, cited by leading VR researchers and implemented in commercial applications.",
+    "year": "2022",
+    "linkLabel": "Read Paper",
+    "linkUrl": "https://example.com/achievement4"
+  }
+]

@@ -1,0 +1,36 @@
+[
+  {
+    "id": "cert-1",
+    "title": "Unity Certified VR Developer",
+    "organization": "Unity Technologies",
+    "description": "Advanced certification demonstrating expertise in VR development with Unity engine, including spatial audio, hand tracking, and performance optimization for Meta Quest and HTC Vive platforms.",
+    "year": "2023",
+    "linkLabel": "View Certificate",
+    "linkUrl": "https://example.com/certificate1"
+  },
+  {
+    "id": "cert-2",
+    "title": "Machine Learning Specialization",
+    "organization": "Stanford Online - Coursera",
+    "description": "Comprehensive deep dive into supervised learning, neural networks, and deep learning architectures. Completed hands-on projects in computer vision and natural language processing.",
+    "year": "2023",
+    "linkLabel": "View Certificate",
+    "linkUrl": "https://example.com/certificate2"
+  },
+  {
+    "id": "cert-3",
+    "title": "Advanced QA & Test Automation",
+    "organization": "ISTQB",
+    "description": "International certification covering test automation frameworks, CI/CD integration, and modern testing methodologies for agile development environments.",
+    "year": "2022"
+  },
+  {
+    "id": "cert-4",
+    "title": "Meta Quest Developer Course",
+    "organization": "Meta Blueprint",
+    "description": "Specialized training in developing immersive VR experiences for Meta Quest platform, including hand tracking, passthrough AR, and social VR features.",
+    "year": "2024",
+    "linkLabel": "View Certificate",
+    "linkUrl": "https://example.com/certificate4"
+  }
+]

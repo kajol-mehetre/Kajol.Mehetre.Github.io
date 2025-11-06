@@ -1,4 +1,5 @@
 import { HeroSection } from "@/components/HeroSection";
+import { CredentialsShowcase } from "@/components/CredentialsShowcase";
 import { CategoryCard } from "@/components/CategoryCard";
 import projectsData from "@/data/projects.json";
 import vrIcon from "@assets/generated_images/VR_category_icon_49a111b2.png";
@@ -30,6 +31,8 @@ export default function Home() {
   return (
     <div>
       <HeroSection />
+      
+      <CredentialsShowcase />
       
       <section className="py-20 px-6" id="categories">
         <div className="max-w-7xl mx-auto">
