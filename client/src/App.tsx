@@ -8,7 +8,7 @@ import { ChatbotPlaceholder } from "@/components/ChatbotPlaceholder";
 import Home from "@/pages/Home";
 import Projects from "@/pages/Projects";
 import ProjectDetail from "@/pages/ProjectDetail";
-import Personality from "@/pages/Personality";
+// import Personality from "@/pages/Personality";
 import NotFound from "@/pages/not-found";
 
 function Router() {
@@ -17,7 +17,7 @@ function Router() {
       <Route path="/" component={Home} />
       <Route path="/projects" component={Projects} />
       <Route path="/project/:id" component={ProjectDetail} />
-      <Route path="/personality" component={Personality} />
+      {/*<Route path="/personality" component={Personality} /> */}
       <Route component={NotFound} />
     </Switch>
   );

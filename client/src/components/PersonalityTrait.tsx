@@ -1,4 +1,4 @@
-import { Card } from "@/components/ui/card";
+/* import { Card } from "@/components/ui/card";
 
 interface PersonalityTraitProps {
   name: string;
@@ -33,4 +33,4 @@ export function PersonalityTrait({ name, level, description }: PersonalityTraitP
       </p>
     </Card>
   );
-}
+} */

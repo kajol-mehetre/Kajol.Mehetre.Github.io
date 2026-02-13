@@ -1,4 +1,4 @@
-import { PersonalityTrait } from "@/components/PersonalityTrait";
+/* import { PersonalityTrait } from "@/components/PersonalityTrait";
 import personalityData from "@/data/personality.json";
 
 export default function Personality() {
@@ -35,3 +35,4 @@ export default function Personality() {
     </div>
   );
 }
+*/

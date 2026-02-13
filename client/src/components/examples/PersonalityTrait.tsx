@@ -1,4 +1,4 @@
-import { PersonalityTrait } from '../PersonalityTrait'
+/* import { PersonalityTrait } from '../PersonalityTrait'
 
 export default function PersonalityTraitExample() {
   return (
@@ -10,4 +10,4 @@ export default function PersonalityTraitExample() {
       />
     </div>
   )
-}
+} */

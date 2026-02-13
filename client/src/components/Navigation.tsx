@@ -11,7 +11,7 @@ export function Navigation() {
   const navItems = [
     { label: "Home", path: "/" },
     { label: "Projects", path: "/projects" },
-    { label: "Personality", path: "/personality" },
+    // { label: "Personality", path: "/personality" },
   ];
 
   return (
