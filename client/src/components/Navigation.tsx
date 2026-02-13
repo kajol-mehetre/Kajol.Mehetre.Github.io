@@ -18,7 +18,7 @@ export function Navigation() {
     <nav className="fixed top-0 left-0 right-0 z-50 border-b border-primary/20 bg-background/80 backdrop-blur-lg">
       <div className="max-w-7xl mx-auto px-6 py-4">
         <div className="flex items-center justify-between">
-          <Link href="/">
+          <Link href="#/">
             <a className="font-orbitron text-xl font-bold text-primary hover-elevate px-3 py-2 rounded-md" data-testid="link-home">
               &lt;DEV/&gt;
             </a>
@@ -26,7 +26,7 @@ export function Navigation() {
 
           <div className="hidden md:flex items-center gap-1">
             {navItems.map((item) => (
-              <Link key={item.path} href={item.path}>
+              <Link key={item.path} href={`#${item.path}`}>
                 <a
                   className={`font-rajdhani px-4 py-2 rounded-md uppercase text-sm font-semibold tracking-wide transition-colors ${
                     location === item.path
@@ -58,7 +58,7 @@ export function Navigation() {
         {mobileMenuOpen && (
           <div className="md:hidden mt-4 pb-4 space-y-2 border-t border-primary/20 pt-4">
             {navItems.map((item) => (
-              <Link key={item.path} href={item.path}>
+              <Link key={item.path} href={`#${item.path}`}>
                 <a
                   className={`block font-rajdhani px-4 py-2 rounded-md uppercase text-sm font-semibold ${
                     location === item.path
